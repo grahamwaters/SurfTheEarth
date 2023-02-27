@@ -1,0 +1,161 @@
+1677464878288	geckodriver	INFO	Listening on 127.0.0.1:52351
+1677464878515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--mute-audio" "--disable-notifications" "--disable-popup-blocking" "--disable-extensions" "--remote-debugging-port" "52352" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileAKtDHK"
+2023-02-26 20:28:21.497 firefox-bin[38420:148521] Unable to install helper!
+WebDriver BiDi listening on ws://127.0.0.1:52352
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52352/devtools/browser/152caa6b-083e-449a-b5c9-8208a719158d
+1677464913510	geckodriver	INFO	Listening on 127.0.0.1:52583
+1677464914046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--mute-audio" "--disable-notifications" "--disable-popup-blocking" "--disable-extensions" "--remote-debugging-port" "52584" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileGaoF7k"
+1677464914614	Marionette	INFO	Marionette enabled
+1677464914791	Marionette	INFO	Listening on port 52603
+Read port: 52603
+WebDriver BiDi listening on ws://127.0.0.1:52584
+1677464914958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileGaoF7k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52584/devtools/browser/bd074629-579d-4e04-aad6-650d643bceb1
+1677464991459	geckodriver	INFO	Listening on 127.0.0.1:53049
+1677464991997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--mute-audio" "--disable-notifications" "--disable-popup-blocking" "--disable-extensions" "--remote-debugging-port" "53050" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileAybh8w"
+1677464992405	Marionette	INFO	Marionette enabled
+1677464992498	Marionette	INFO	Listening on port 53062
+Read port: 53062
+WebDriver BiDi listening on ws://127.0.0.1:53050
+1677464992811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileAybh8w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53050/devtools/browser/7f810280-e999-4454-bb28-accc2d2e5fea
+1677464994081	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1677464996609	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-02-27T02:29:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:29:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:29:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:29:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:29:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:29:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:29:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:29:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 2222 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-02-27T02:32:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:32:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:32:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:32:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677465215174	geckodriver	INFO	Listening on 127.0.0.1:54235
+1677465215701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--mute-audio" "--disable-notifications" "--disable-popup-blocking" "--disable-extensions" "--remote-debugging-port" "54236" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileiA7oIA"
+1677465216096	Marionette	INFO	Marionette enabled
+1677465216186	Marionette	INFO	Listening on port 54245
+Read port: 54245
+WebDriver BiDi listening on ws://127.0.0.1:54236
+1677465216304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileiA7oIA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54236/devtools/browser/c64036de-d7d3-459b-b650-d310bd516fbb
+[2023-02-27T02:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:33:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 7236 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3235: TypeError: can't access dead object
+JavaScript error: resource:///actors/DOMFullscreenParent.sys.mjs, line 209: Error: TelemetryStopwatch: key "FULLSCREEN_CHANGE_MS" was already initialized
+[2023-02-27T02:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:33:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 2595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 2147 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967308"
+[2023-02-27T02:34:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:34:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:34:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:34:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.youtube.com/s/player/9419f2ea/player_ias.vflset/en_US/base.js, line 10120: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677465289138	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[Child 40616, MediaDecoderStateMachine #1] WARNING: Decoder=1354ca400 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1677465304587	geckodriver	INFO	Listening on 127.0.0.1:54766
+1677465305126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--mute-audio" "--disable-notifications" "--disable-popup-blocking" "--disable-extensions" "--remote-debugging-port" "54767" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileBp5pCH"
+1677465305554	Marionette	INFO	Marionette enabled
+1677465305651	Marionette	INFO	Listening on port 54779
+Read port: 54779
+WebDriver BiDi listening on ws://127.0.0.1:54767
+1677465305778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofileBp5pCH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54767/devtools/browser/c463f92b-c3e4-4551-a1a5-f2279c0732df
+[2023-02-27T02:35:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677465320360	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[2023-02-27T02:35:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:24Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 2842 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677465333339	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[2023-02-27T02:35:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6N6xbrRFdMEff8Jis_shwjAW5G8di4zE4BhK3Aw40Jc.js line 2 > eval line 102 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+[2023-02-27T02:35:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript error: https://www.palazzobembo.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=7.1.0, line 1: TypeError: a.browser is undefined
+JavaScript error: https://www.palazzobembo.com/wp-content/themes/dt-the7/js/main.min.js?ver=7.1.0, line 9: TypeError: a.browser is undefined
+[2023-02-27T02:35:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:35:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:36:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:36:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:36:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:36:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677465410383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[2023-02-27T02:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-02-27T02:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1677465422971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1677465428279	geckodriver	INFO	Listening on 127.0.0.1:55524
+1677465428816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--mute-audio" "--disable-notifications" "--disable-popup-blocking" "--disable-extensions" "--remote-debugging-port" "55525" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofilepdwVOa"
+1677465429213	Marionette	INFO	Marionette enabled
+1677465429308	Marionette	INFO	Listening on port 55538
+Read port: 55538
+WebDriver BiDi listening on ws://127.0.0.1:55525
+1677465429425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/34/d1tlq3k91hb0lj6x90xpzb4r0000gn/T/rust_mozprofilepdwVOa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55525/devtools/browser/1920fd58-5fba-422b-884b-0704e48539cc
