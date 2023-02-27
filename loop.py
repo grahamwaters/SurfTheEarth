@@ -25,6 +25,17 @@ with open("data/cams.csv") as f:
 # shuffle the list of urls
 random.shuffle(watchable_urls)
 
+# remove any urls that contain "twitter", "facebook", "instagram", "twitch", "tiktok", "snapchat", "reddit", "pinterest"
+watchable_urls = [url for url in watchable_urls if "twitter" not in url\
+        and "facebook" not in url\
+        and "instagram" not in url\
+        and "twitch" not in url\
+        and "tiktok" not in url\
+        and "snapchat" not in url\
+        and "reddit" not in url\
+        and "pinterest" not in url]
+
+
 # remove bad urls
 bad_urls = []
 
